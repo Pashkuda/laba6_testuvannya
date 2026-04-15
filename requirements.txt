@@ -1,0 +1,5 @@
+pynacl
+cryptography
+pytest
+pytest-cov
+bandit
